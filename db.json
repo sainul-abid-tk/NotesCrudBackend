@@ -1,9 +1,22 @@
 {
   "allnotes": [
     {
-      "title": "Abid",
-      "note": "<ol><li><strong>fvbbghkf</strong></li><li><strong>\\\\kfenbkrsgsclmnskvfxb\\</strong></li><li><strong>ebwjewf</strong></li></ol>",
+      "category": "Work",
+      "note": "Content for note 1",
+      "tags": "important,meeting",
       "id": 1
+    },
+    {
+      "category": "Personal",
+      "note": "Content for note 2",
+      "tags": "ideas",
+      "id": 2
+    },
+    {
+      "category": "Games",
+      "note": "fvfvrgbgnjtkglhrtjgf",
+      "tags": "important",
+      "id": 3
     }
   ]
 }
